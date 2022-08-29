@@ -1,0 +1,13 @@
+Library Management System
+
+Requirements:
+1. Register new user - (Basic Details with option to upload ID)
+2. Add new book - Any registered user can add book
+3. Issue the book - Logged in user can search and issue book based on user qouta
+4. Return the book
+5. Search for books
+6. Update book
+7. Remove book
+
+Development
+Step 1: Authentication Flow
